@@ -141,21 +141,4 @@ python scripts/generate_visuals.py
 jupyter notebook notebooks/online_learning_engagement_analysis.ipynb
 ```
 
-## Suggested GitHub Description
 
-**Portfolio project analyzing student engagement and dropout patterns in online learning data using Python, SQL, and data visualization.**
-
-## Suggested Topics / Tags
-
-`data-analysis`, `python`, `pandas`, `matplotlib`, `jupyter-notebook`, `sql`, `eda`, `portfolio-project`
-
-## Next Steps
-
-- Turn the analysis into a Power BI or Tableau dashboard
-- Add cohort-style retention tracking
-- Build a simple KPI layer for weekly performance monitoring
-- Add stakeholder slides summarizing findings
-
-## License
-
-This project is for portfolio and educational use.
